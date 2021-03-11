@@ -80,4 +80,4 @@ In this case, since you are working over a four-month window, the first two mont
 ### Documents uploaded:
 
 1. Ipython Nootbook with all classification modeling
-2. A word document containing model recommendation for good predictive model and good interpretable model 
+2. A pdf document containing model recommendation for good predictive model and good interpretable model 
